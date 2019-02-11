@@ -4,6 +4,10 @@
 [![Stratux Slack](http://slack.stratux.me:3000/badge.svg)](http://slack.stratux.me/)
 
 # stratux
+
+This Repository has been created in the attempt to merge features from XPlane and FLARM branches developed by 0x74-0x62.
+The main aim of the Stratux Pilot fork is to provide compability with those EFB that only supports X-Plane Procol to feed Traffic info. 
+
 RTL-SDR UAT tools
 
 
